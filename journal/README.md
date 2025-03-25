@@ -1,7 +1,7 @@
 **Living with a Smartwatch: A Day of Health Monitoring**  
 **By Elizabeth Rodriguez, March 25, 2025**  
 
-![Smartwatch Interface Screenshot](link-to-image-placeholder)
+![Smartwatch Interface Screenshot](watch.jpg)
 
 Smartwatches have evolved from simple timekeepers to powerful health companions. Recently, I spent a day relying on my smartwatch to monitor various health metrics — from **heart rate** and **sleep quality** to **activity tracking** and **stress levels**. My goal was to see how well this device could support my overall well-being. The experience was enlightening, revealing both impressive capabilities and frustrating limitations.
 
