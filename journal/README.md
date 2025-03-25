@@ -1,7 +1,9 @@
 **Living with a Smartwatch: A Day of Health Monitoring**  
 **By Elizabeth Rodriguez, March 25, 2025**  
 
-![Smartwatch Interface Screenshot](watch.jpg)
+<p align="center">
+  <img src="watch.jpg" alt="Garmin Venu 4">
+</p>
 
 Smartwatches have evolved from simple timekeepers to powerful health companions. Recently, I spent a day relying on my smartwatch to monitor various health metrics — from **heart rate** and **sleep quality** to **activity tracking** and **stress levels**. My goal was to see how well this device could support my overall well-being. The experience was enlightening, revealing both impressive capabilities and frustrating limitations.
 
