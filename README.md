@@ -4,7 +4,7 @@ I'm a COMPSCI major and interested in UX/UI design because it makes technology e
 
 ## UX Team Project
 
-Coming soon.
+[Project](https://github.com/ChicoState/smartinsulin-ux)
 
 ## UX Journal
 
